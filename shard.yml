@@ -1,0 +1,13 @@
+name: crystal-app
+version: 0.1.0
+
+authors:
+  - Jules <jules@example.com>
+
+targets:
+  crystal-app:
+    main: src/crystal-app.cr
+
+crystal: 1.0.0
+
+license: MIT
